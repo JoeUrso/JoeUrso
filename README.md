@@ -1,13 +1,13 @@
 <h1 align="center">Joe Urso</h1>
 <h3 align="center">A Full Stack Software Engineer with a little extra love for the frontend. I have a background in education and think Lupe Fiasco is the GOAT.</h3>
 
-- 🎤 I’m currently working on [Who's Da Illest?](https://github.com/JoeUrso/whos-da-illest)
+🎤 I’m currently working on [Who's Da Illest?](https://github.com/JoeUrso/whos-da-illest)
 
-- 🌱 I’m currently learning **Redux, GraphQL, React Native, and MongoDB**
+🌱 I’m currently learning **Redux, GraphQL, React Native, and MongoDB**
 
-- ☠️ I’m also working on [Expert Tattooing](https://github.com/JoeUrso/Expert-Tattooing)
+☠️ I’m also working on [Expert Tattooing](https://github.com/JoeUrso/Expert-Tattooing)
 
-- 📫 How to reach me **joeursodev@gmail.com**
+📫 How to reach me **joeursodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
