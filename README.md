@@ -1,5 +1,5 @@
 <h1 align="center">Joe Urso</h1>
-<h3 align="center">A Full Stack Software Engineer with a little extra love for the frontend. I have a background in education and think Lupe Fiasco is the GOAT.</h3>
+<h3 align="center">A Full Stack Dev with a little extra love for the frontend. I have a background in education and think Lupe Fiasco is the GOAT.</h3>
 
 🎤 I’m currently working on [Who's Da Illest?](https://github.com/JoeUrso/whos-da-illest)
 
