@@ -5,7 +5,7 @@
 
 - ☁️ I’m currently learning DevOps and Infrastructure: **AWS ECS Fargate, AWS ECR, Terraform, Docker, and Github Actions**
 
-- 💻 I'm also enjoying the quests on [Wilco.gg](https://github.com/ObelusFamily/Anythink-Market-z1633)
+- 💻 I'm also completing quests on [Wilco.gg](https://github.com/ObelusFamily/Anythink-Market-z1633)
 
 - 🧠 Things I want to learn next: **Svelte and Go**
 
