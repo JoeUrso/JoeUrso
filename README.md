@@ -1,13 +1,11 @@
 <img src="./Joe Urso Off on the Adventure....png" width="100%">
 <h3 align="center">Full Stack Dev with a little extra love for the frontend. I have a background in education and think Lupe Fiasco is the GOAT.</h3>
 
-- 🍎 I'm currently working in NutritionTech at [OtherWhy](https://github.com/otherwhy)
+- 🚀 I'm currently working on the future of Web3 at [Solon Labs](https://www.solon.network/)
 
-- ☁️ I’m currently learning DevOps and Infrastructure: **AWS ECS Fargate, AWS ECR, Terraform, Docker, and Github Actions**
+- ☁️ I’m currently learning about the Blockchain: **Solidity, Smart Contracts, Ethereum**
 
-- 💻 I'm also completing quests on [Wilco.gg](https://github.com/ObelusFamily/Anythink-Market-z1633)
-
-- 🧠 Things I want to learn next: **Svelte and Go**
+- 🧠 Things I want to learn next: **Svelte and Rust**
 
 - 📫 How to reach me **joeursodev@gmail.com**
 
