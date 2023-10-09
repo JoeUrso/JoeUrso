@@ -1,11 +1,7 @@
 <img src="./Joe Urso Off on the Adventure....png" width="100%">
-<h3 align="center">Full Stack Dev with a little extra love for the frontend. I have a background in education and think Lupe Fiasco is the GOAT.</h3>
+<h3 align="center">Full Stack Web & Mobile Developer | Extra love for the frontend | TypeScript, React, React Native, Node.js, Express, SQL.</h3>
 
-- 🚀 I'm currently working on the future of Web3 at [Solon Labs](https://www.solon.network/)
-
-- ☁️ I’m currently learning about the Blockchain: **Solidity, Smart Contracts, Ethereum**
-
-- 🧠 Things I want to learn next: **Svelte and Rust**
+- 🧠 I’m currently learning: **The T3 Stack**
 
 - 📫 How to reach me **joeursodev@gmail.com**
 
